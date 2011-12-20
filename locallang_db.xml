@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>database</type>
+		<description>Language labels for database tables/fields belonging to extension 'tce_tutorial'</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="tx_tcetutorial_container">Container</label>
+			<label index="tx_tcetutorial_container.title">Title</label>
+			<label index="tx_tcetutorial_container.elements_csv">Elements via CSV</label>
+			<label index="tx_tcetutorial_container.elements_foreignfield">Elements via Foreign Field</label>
+			<label index="tx_tcetutorial_container.elements_mm">Elements via MM</label>
+			<label index="tx_tcetutorial_container.categories_csv">Categories via CSV</label>
+			<label index="tx_tcetutorial_container.categories_mm">Categories via MM</label>
+			<label index="tx_tcetutorial_element">Elements</label>
+			<label index="tx_tcetutorial_element.title">Title</label>
+			<label index="tx_tcetutorial_element.categories_csv">Categories via CSV</label>
+			<label index="tx_tcetutorial_element.categories_mm">Categories via MM</label>
+			<label index="tx_tcetutorial_category">Categories</label>
+			<label index="tx_tcetutorial_category.title">Title</label>
+		</languageKey>
+	</data>
+</T3locallang>
